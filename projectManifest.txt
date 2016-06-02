@@ -1,0 +1,10 @@
+June 2, 2016
+
+function to write:
+
+angularDistance - computes angular distance on a given data matrix
+fastTOM - computes topolotical overlap matrix
+moduleExtraction - extract modules from TOM matrix
+eigenGeneExtraction - extract eigengene from modules
+pcorOfEigengenesGivenGene - computes all triples of partial correlationsbetween eigengenes given a gene
+pcorOfGenesgivenEigengene - computes all triples of partial correlationsbetween genes given an eigengen
